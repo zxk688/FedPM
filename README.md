@@ -1,6 +1,6 @@
 # Federated learning with prototype matching (FedPM)
 
-This is a reporitory for releasing a PyTorch implementation of our work [Federated Deep Learning With Prototype Matching for Object Extraction From Very-High-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10041939).
+This is a repository for releasing a PyTorch implementation of our work [Federated Deep Learning With Prototype Matching for Object Extraction From Very-High-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10041939).
 
 
 If you find this dataset useful for your research, please cite our paper:
@@ -16,7 +16,7 @@ If you find this dataset useful for your research, please cite our paper:
 }
 ```
 # Dataset
-Datasets used in this paper can be obtained from.
+Datasets used in this paper contain [inria](https://project.inria.fr/aerialimagelabeling/), [BH-Pools](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/) and [GVLM](https://github.com/zxk688/GVLM).
 
 # Acknowledgements
 
